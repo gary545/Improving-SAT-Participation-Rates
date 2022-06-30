@@ -69,6 +69,6 @@ These datasets were imported and cleaned, and subsequently merged into a datafra
 
 ![1](images/sat_act_part_17_19.jpg "ACT & SAT participation")
 
-2. The mean SAT Math score has been lower than Evidence-Based Reading and Writing. We recommend to provide greater assistance to students on SAT Math preparation to increase SAT scores. With a higher mean score obtained by their seniors, future cohorts may also consider taking SAT for stronger college entrance qualifications.
+2. The mean SAT Math score has been lower than Evidence-Based Reading and Writing. We recommend to provide more resources for students on SAT Math preparation to achieve higher SAT scores. With a higher mean score obtained by their seniors, future cohorts may also consider taking SAT for stronger college entrance qualifications.
 
-![2](images/sat_section_17_19 "SAT section scores")
+![2](images/sat_section_17_19.jpg "SAT section scores")
