@@ -7,7 +7,6 @@ The SAT and ACT are standardized tests used for college admissions in the United
 ### Contents:
 - [Background](#Background)
 - [Data Import & Cleaning](#Data-Import-&-Cleaning)
-- [Data Analysis & Visualization](#Data-Analysis-&-Visualization)
 - [Summary and Recommendations](#Summary-and-Recommendations)
 
 ## Background
@@ -56,7 +55,7 @@ These datasets were imported and cleaned, and subsequently merged into a datafra
 |**math_2019**|*int*|merged_df|Section score for Math in SAT 2019| 
 |**total_2019**|*int*|merged_df|Total SAT score from Evidence-Based Reading and Writing and Math in 2019| 
 
-## Summary-and-Recommendations
+## Summary and Recommendations
 
 1. There are more states in the country with high ACT participation rates and low SAT participation rates. We propose to engage more state education agencies to choose SAT as their statewide standardized test, focusing first on Minnesota, North Dakota, Nebraska and Wisconsin. These 4 states have a higher mean scores for both ACT and SAT, with the potential for more students achieving high SAT scores.
 
