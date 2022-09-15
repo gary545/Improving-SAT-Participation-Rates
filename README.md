@@ -1,5 +1,5 @@
 
-# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Project 1: Standardized Test Analysis
+# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Improving SAT Participation Rates
 
 ## Problem Statement
 The SAT and ACT are standardized tests used for college admissions in the United States. This project aims to explore trends in SAT and ACT scores and participation for the years 2017-2019 and make recommendations to College Board to improve the participation rates of SAT.
